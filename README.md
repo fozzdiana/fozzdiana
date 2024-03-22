@@ -9,7 +9,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/diana-sha
 
 Looking forward to connecting with you!
 
-## Skills:
+### Skills:
 <code><img height="20" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"> Cypress</code>
 <code><img height="20" src="https://static.wixstatic.com/media/c9c793_e1dd3e211bc34f31aaa4e70cf23e79df~mv2.png/v1/fit/w_642%2Ch_620%2Cal_c%2Cq_80,enc_auto/file.jpg"> Postman</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> SQL</code>
